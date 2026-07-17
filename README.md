@@ -75,3 +75,4 @@ This project uses NASA's C-MAPSS Turbofan Engine Degradation Simulation
 dataset (FD001–FD004). Download it from the
 [NASA Prognostics Data Repository](https://data.nasa.gov/dataset/cmapss-jet-engine-simulated-data)
 and place the files in a `data/` folder at the repo root:
+Update `DATA_DIR` in the notebook to point to this folder before running.
